@@ -1,0 +1,19 @@
+{
+  "name": "test-node-app",
+  "version": "1.0.0",
+  "description": "test node app in azure portal",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monali-2003/test-node-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monali-2003/test-node-app/issues"
+  },
+  "homepage": "https://github.com/monali-2003/test-node-app#readme"
+}
